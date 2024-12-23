@@ -30,3 +30,4 @@ Map<(자리위치를 가진 리스트로 Map 키를 받음),이름>
 랜덤으로 넣음
 리스트 한개가 뽑히면 
 
+https://truthful-comte-144.notion.site/22372187dec941e2aa6d2d43aa3079ec
